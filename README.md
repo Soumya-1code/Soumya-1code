@@ -62,3 +62,6 @@
 <p align="center">
   🌸 *"Write code like poetry — clean, meaningful, unforgettable."* 💙
 </p>
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Soumya-1code/Soumya-1code/output/github-contribution-grid-snake.svg)
