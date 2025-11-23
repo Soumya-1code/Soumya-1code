@@ -37,7 +37,7 @@
 
 <p align="center">
 
-<a href="mailto:sharmasoumya501@gmail.com">
+<a href="mailto:sharmasoumya4211@gmail.com">
   <img src="https://img.shields.io/badge/%F0%9F%92%9C%20GMAIL-pink?style=for-the-badge&color=ff84c9" alt="gmail-badge" />
 </a>
 
