@@ -1,16 +1,60 @@
-## Hi there 👋
+<!-- 🌸 Header Animated Hacker GIF -->
+<p align="center">
+  <img src="./hacker.gif.gif" width="230">
+</p>
 
-<!--
-**Soumya-1code/Soumya-1code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ✨ Name in pink cursive -->
+<h1 align="center" style="font-family: cursive; color:#ff6ec7; font-size: 42px;">
+  Soumya Sharma 💖
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">AI Enthusiast • CS Undergrad • Hackathon Explorer • Prompt Engineer</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- 🌟 Glowing Pixel Cat -->
+<p align="center">
+  <img src="./cat.gif" width="180">
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-bd4fff?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f5b400?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/HTML5-fd5c5c?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-6cf3ff?style=for-the-badge&logo=css3&logoColor=0047AB"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-7b2fff?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-fce3f1?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
+</p>
+
+---
+
+### 📬 Contact Me  
+
+<p align="center">
+ <a href="mailto:soumya.sharma@gmail.com">
+   <img src="https://img.shields.io/badge/💌 Gmail-ff9ed3?style=for-the-badge">
+ </a>
+ <a href="https://github.com/Soumya-1code">
+   <img src="https://img.shields.io/badge/🐙 GitHub-e3d3ff?style=for-the-badge">
+ </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumya-1code&show_icons=true&theme=tokyonight" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya-1code&theme=tokyonight" width="420"/>
+</p>
+
+---
+
+<p align="center">
+  🌸 *"Write code like poetry — clean, meaningful, unforgettable."* 💙
+</p>
