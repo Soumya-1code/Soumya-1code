@@ -36,13 +36,17 @@
 ### 📬 Contact Me  
 
 <p align="center">
- <a href="mailto:soumya.sharma@gmail.com">
-   <img src="https://img.shields.io/badge/💌 Gmail-ff9ed3?style=for-the-badge">
- </a>
- <a href="https://github.com/Soumya-1code">
-   <img src="https://img.shields.io/badge/🐙 GitHub-e3d3ff?style=for-the-badge">
- </a>
+
+<a href="mailto:sharmasoumya501@gmail.com">
+  <img src="https://img.shields.io/badge/%F0%9F%92%9C%20GMAIL-pink?style=for-the-badge&color=ff84c9" alt="gmail-badge" />
+</a>
+
+<a href="https://github.com/Soumya-1code">
+  <img src="https://img.shields.io/badge/%F0%9F%91%8D%20GITHUB-lavender?style=for-the-badge&color=d9caff" alt="github-badge" />
+</a>
+
 </p>
+
 
 ---
 
