@@ -46,6 +46,16 @@
 </a>
 
 </p>
+---
+
+### 📄 Resume
+
+<p align="center">
+  <a href="./ssresume.pdf" download>
+    <img src="https://img.shields.io/badge/%F0%9F%93%9D%20Download%20Resume-ff9ecb?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
+
 
 
 ---
