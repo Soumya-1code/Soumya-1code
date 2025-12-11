@@ -60,15 +60,10 @@
 
 ---
 
-## 📊 GitHub Stats  
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats (FIXED using official mirror + cache bypass) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Soumya-1code&show_icons=true&theme=tokyonight&cachebuster=1" width="420"/>
-
-  <!-- GitHub Streak Stats -->
+  <!-- Only the working GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya-1code&theme=tokyonight" width="420"/>
 </p>
 
