@@ -18,6 +18,21 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
+
+## 🌱 Developer Mindset
+- Focused on learning through real projects  
+- Values clean, readable, and meaningful code  
+- Believes consistency matters more than speed  
+- Growing one commit at a time 🌿
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
+
+
 
 ### 🛠 Tech Stack
 
@@ -60,12 +75,8 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Only the working GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya-1code&theme=tokyonight" width="420"/>
-</p>
+
 
 ---
 
